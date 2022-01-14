@@ -1,0 +1,7 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "Dr. Herrera's Page"
+  left:
+    - text: "Home"
+      href: index.html
